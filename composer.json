@@ -1,5 +1,5 @@
 {
-    "name": "tig/buckaroo",
+    "name": "edifference/buckaroo",
     "description": "TIG Magento 2 Buckaroo extension",
     "require": {
         "php": ">=7.1|~7.2.0",
